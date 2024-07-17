@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @m-mhe
-- 👀 I’m interested in ... dart, python, c#, java, and php 
+- 👀 I’m interested in ... C/C++, dart, python, C#, java, and php 
 - 🌱 I’m currently learning ... flutter
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... app development projects
 - 📫 How to reach me ... mominhasanemon@gmail.com
 
 <!---
