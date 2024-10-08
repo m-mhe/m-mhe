@@ -31,11 +31,12 @@ I'm focused on building **Flutter**-based projects to create powerful and seamle
 
 ### 🌟 GitHub Stats
 
-![Momin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mhe&show_icons=true&theme=radical)
 
-### 📊 Language Usage
+![Momin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mhe&show_icons=true&theme=cobalt)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-mhe&theme=tokyonight)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=m-mhe&theme=monokai&no-frame=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Momin's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=m-mhe&theme=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mhe&layout=compact&theme=radical&langs_count=5)
 
 ---
 
