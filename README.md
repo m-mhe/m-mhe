@@ -33,6 +33,7 @@ I'm focused on building **Flutter**-based projects to create powerful and seamle
 
 ![Momin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mhe&show_icons=true&theme=default)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mhe&layout=compact&theme=default&langs_count=5)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m-mhe&theme=default)](https://git.io/streak-stats)
 
 ---
@@ -41,4 +42,4 @@ I'm focused on building **Flutter**-based projects to create powerful and seamle
 
 - **GitHub**: [m-mhe](https://github.com/m-mhe)
 - **LinkedIn**: [Momin Hosan Emon](https://www.linkedin.com/in/momin-hosan-emon/)
-- **Email**: momin.hosan.emon@gmail.com
+- **Email**: mominhasanemon@gmail.com
