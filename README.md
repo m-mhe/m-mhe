@@ -31,8 +31,11 @@ I'm focused on building **Flutter**-based projects to create powerful and seamle
 
 ### 🌟 GitHub Stats
 
-![Momin's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mhe&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mhe&layout=compact&theme=default&langs_count=5)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-mhe&show_icons=true&theme=default" alt="Momin's GitHub Stats" height="150px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-mhe&layout=compact&theme=default&langs_count=5" alt="Top Languages" height="150px"/>
+</div>
 
 ---
 
