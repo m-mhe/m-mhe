@@ -13,11 +13,11 @@ I'm a **Computer Science Engineer** and **App Developer** specializing in **cros
 
 ### GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-mhe&show_icons=true&theme=radical)
 
 ### Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-mhe&layout=compact&theme=radical&langs_count=3)
 
 ---
 
