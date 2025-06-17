@@ -1,7 +1,7 @@
 # Hey, I'm Momin Hosan Emon! 👋
 
 ### 🧑‍💻 About Me
-I'm a **Software Engineer** and **App Developer** with a passion for building sleek, high-performance apps. I specialize in **cross-platform development** using **Flutter**, combining clean UI/UX design with robust functionality. I love working with **Dart**, **Python**, **C**, **C++**, and **C#**, and I'm constantly exploring new ways to enhance user experiences.
+I'm a **Software Engineer** and **App Developer** with a passion for building sleek, high-performance apps. I specialize in **cross-platform development** using **Flutter**, combining clean UI/UX design with robust functionality. I love working with **Dart**, **Python**, **C**, **C++**, **JAVA**, and **C#**, and I'm constantly exploring new ways to enhance user experiences.
 
 ---
 
